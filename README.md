@@ -80,7 +80,7 @@ E = mc^2
 克隆项目并编译：
 
 ```powershell
-git clone <repository-url>
+git clone https://github.com/fupcode/texclip.git
 cd texclip
 cargo build --release
 ```
